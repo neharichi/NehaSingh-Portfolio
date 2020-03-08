@@ -1,7 +1,12 @@
-# UpdatedPortfolioPage-2
+## NehaSingh-UpdatedPortfolio
 
 #Live Url: 
-https://neharichi.github.io/NehaSingh-Portfolio/
+[Live Application](https://neharichi.github.io/NehaSingh-Portfolio/) 
 
 #Resume:
-https://neharichi.github.io/NehaSingh-Portfolio/Neha%20Singh%20-%20Resume%20-%20Web%20Developer%20-%202020.pdf
+[Neha Singh Resume](https://neharichi.github.io/NehaSingh-Portfolio/Neha%20Singh%20-%20Resume%20-%20Web%20Developer%20-%202020.pdf) 
+
+#Linkedin Profile:
+[Neha Singh - LinkedIn Profile](https://www.linkedin.com/in/nehasingh17/) 
+
+
